@@ -1,0 +1,9 @@
+
+WHILE 
+sytanx:
+
+initilization
+while cond:
+updation
+
+

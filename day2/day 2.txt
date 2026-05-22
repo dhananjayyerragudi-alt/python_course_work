@@ -1,0 +1,47 @@
+5 types of tokens
+
+keywords- reserved words in python (if, elseif, elif)
+identifiers- Names given to variables, functions, classes
+Literals- constant values assigend to variables(10, "HeLLo")
+operators- symbols that perform operations(+,-,*,/)
+punctuators-- symbols like (), {}, []
+
+python is case sensitive and it can include letters from a to z, A to Z and 0-9, underscore.
+It cannot start with a digit and cannot use python keywords as names. Avoid using special characters @,#,$
+
+Swapping is allowed in python without using a temporary variables
+a,b=5,10
+a,b=b,a
+print(a.b)
+
+deleting variables
+use the del keyword to delete a variable
+
+data types
+1.Numeric Types
+ int= 0,23 
+ float=1.1,2.2,3.3
+complex- 5+2j
+
+2. sequence types
+ a.string -str 
+	customer_name="Rohit sharma"
+	used for names, addresses, categories, product description
+	
+ b. list- List 	
+	used to store lists of items such as products in cart, wishlist or categories
+ 
+	c. tuple- Tuple 
+	 used to store fixed data ,such as geographic coordinates or dimension specs
+3 set types 
+ a. set- Set 
+	used to store unique items like available sizes or brands without duplicates
+4. Mapping Type
+ a. dict _ Dictionary 
+	used extensively to map product attributes, customer info or order details.
+5. Boolean Type
+ a. bool- Boolean 
+ used to check conditions like payment status, availablity 
+6. None Type 
+  represnts a numm or missing value 
+ used when somethinng is not yet assigend, like delivery tracking not yet available

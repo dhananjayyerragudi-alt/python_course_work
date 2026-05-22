@@ -1,0 +1,16 @@
+lambda function is shortform of function. 
+
+day -2 20-05/26
+map is for updating all the condition 
+filter function is used when there is condition 
+
+reduce function needs module and that module is functools
+"from" functools import reduce 
+reduce functioni is used to give a single unit 
+
+
+"GENERATORS" 
+
+It is a specail kind of functions 
+
+multiple returns needs "yield" 

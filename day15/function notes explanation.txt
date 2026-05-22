@@ -1,0 +1,29 @@
+function--- block of code, perform special task
+
+1. reuse
+2.debug
+3. memory effiecy
+4. parameters
+5. time complexity 
+6. modularity 
+7.read
+8.organize
+
+Types of function:
+Built in function
+user defined function
+
+syntax: def function_name(arg):
+	#stmt 
+	return 
+
+	function_name(para)
+
+there are four types of arguments
+1.positional arguments: arguments maps according to position
+2.keyword arguments: arguments maps according to keyword
+3. default arguments: arguments must be default parameter, *** these arguments must be placed at end of arguments*** 
+other wise it will throw typeerror
+4.varialbe length of parameters
+ 4.1 "*" means it returns in a tuple format
+ 4.2 "**" means it returns in a dictionary format

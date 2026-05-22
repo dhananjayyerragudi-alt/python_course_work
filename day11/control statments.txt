@@ -1,0 +1,24 @@
+control statments:
+
+1. iteration--- Ex: ecommerce websites like swiggy or amazon where we search products..
+we have two control statments;-- for and while 
+
+
+for var in seq:
+	#statments 
+
+==> str, list, tuple, set, dict, range --- we use "for" loop
+
+str,list and tuple are sequential data types
+
+enumerate is used to find the index.
+
+for(start value, end value, step value)
+
+we can't iterate set and dict. 
+if we try to use for loop it will through typeerror
+
+"pass": define empty block of code
+"continue": skips the current loop
+"break": to terminate the loop
+

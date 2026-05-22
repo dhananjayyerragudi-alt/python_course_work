@@ -1,0 +1,8 @@
+pass by value--  int,float, str, bool, tuple are immutable data sets, if make changes inside a loop it wont effect outside loop
+list,set and dict are mutable data sets, if make changes insides a loop it will effect inside
+pass by reference
+
+global, nonlocal, scope 
+
+recursion= function calling itself 
+"return" keyword is used to end the recurssion 

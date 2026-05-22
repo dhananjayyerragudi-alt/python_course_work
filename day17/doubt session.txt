@@ -1,0 +1,17 @@
+indentation means branching and also indentation means four spaces. Use indentation whenever we use any if,for statements.
+
+eval function is used for all data types 
+
+a=int(input("Enter the interger: "))
+b=float(input("Enter the integer: "))
+c=input("enter the string:")
+d=int(input("enter the list of integers: ").split())
+e=tuple(input("enter the list of integers: ").split())
+f=set(input("enter the set of integers: ").split())
+g=list(map(int,input("Enter the list of integers: ").split()))
+h=tuple(map(int, input("enter the list of integers: ").split()))
+i=set(map(int,input("enter the list of integers: ").split()))
+
+
+""f string ""
+prnt(f'Integer: {a} Float: {b} String: {c}')
