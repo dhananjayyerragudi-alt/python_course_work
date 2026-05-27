@@ -1,0 +1,9 @@
+class is blue print and it contains objects,attributes and methods.
+functions are called as methods 
+object is called instance of class.
+
+three types of attributes 
+public private protected 
+public--every one can access
+private--only inside the class can access
+protected--
